@@ -1,8 +1,8 @@
 # dumbestapp
 Yes, it is.
 The most basic application that you have to get used to when studying Tech.
-```c=1
-//App
+```c
+//C
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
@@ -16,6 +16,7 @@ int main()
 }
 ```
 ```cpp
+//C++
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;
